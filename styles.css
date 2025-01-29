@@ -203,9 +203,7 @@ footer{
     width: 80px;
     height: 80px;
   }
-  .quote{
-    font-size: 25px;
-  }
+
   .navbar{
     display: flex;
     flex-direction: column;
@@ -263,13 +261,13 @@ footer{
 }
  .quote{
   margin: 45vh .5rem 0 .5rem;
-  font-size: 1.5rem;
+  font-size: 25px;
   border-bottom: 1px dotted white;
   background-color:unset;
   border-radius: 0;
 }
 .title{
-  font-size: 1.5rem;
+  font-size: 25px;
 }
 fieldset{
   width: 85%;
@@ -281,10 +279,9 @@ fieldset{
 .mishi{
   font-style: italic;
   font-family:'Times New Roman', Times, serif;
-  font-size: 1.2rem;
 }
 .desc{
-  font-size: 0.7rem;
+  font-size: 14px;
 }
 #phonenumber{
   font-size: 20px;
@@ -304,11 +301,4 @@ fieldset{
   height: 300px;
 }
 }
-
-
-
-
-
-
-
 
