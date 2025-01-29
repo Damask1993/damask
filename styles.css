@@ -273,7 +273,7 @@ footer{
 }
 fieldset{
   width: 85%;
-  margin: 1.5rem auto;
+  margin: 1em auto;
 }
 .items{
   flex-direction: column;
